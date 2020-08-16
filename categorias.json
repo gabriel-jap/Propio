@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Arroz",
+        "description": "Preparar arroz blanco",
+        "imgSrc": "img/arroz.jpg"
+    },
+    {
+        "name": "Huevos",
+        "description": "Preparar huevos",
+        "imgSrc": "img/huevos.jpg"
+    }
+]
