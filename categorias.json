@@ -1,12 +1,22 @@
 [
     {
         "name": "Arroz",
-        "description": "Preparar arroz blanco",
+        "description": "Preparar arroz ",
         "imgSrc": "img/arroz.jpg"
     },
     {
         "name": "Huevos",
         "description": "Preparar huevos",
         "imgSrc": "img/huevos.jpg"
+    },
+    {
+        "name": "Carne",
+        "description": "Preparar Carne",
+        "imgSrc": "img/carne.jpg"
+    },
+    {
+        "name": "Componentes",
+        "description": "Preparar ingredientes para otras recetas",
+        "imgSrc": "img/componentes.jpg"
     }
 ]
